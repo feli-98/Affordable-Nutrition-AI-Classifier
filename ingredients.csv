@@ -1,0 +1,93 @@
+Ingredient_Name,Is_Carb,Is_Protein,Is_Veg
+Maize,1,0,0
+Pasta,1,0,0
+Spaghetti,1,0,0
+Potato,1,0,0
+Sweet Potato,1,0,0
+Arrowroot (Nduma),1,0,0
+"Cassava (Mihogo),",1,0,0
+Green Banana (Matoke),1,0,0
+Millet Flour,1,0,0
+Rice (cooked),1,0,0
+Chapati,1,0,0
+Plantain,1,0,0
+Millet Porridge (Uji),1,0,0
+"Pilau (plain, no meat)",1,0,0
+Mahamri,1,0,0
+Chips (Fries),1,0,0
+Bhajia (potato),1,0,0
+Ugali,1,0,0
+Chapati,1,0,0
+Mandazi,1,0,0
+Uji (Porridge),1,0,0
+Bread,1,0,0
+Oats,1,0,0
+Indomie,1,0,0
+Couscous,1,0,0
+Sorghum (boiled),1,0,0
+Beans,0,1,0
+Ndengu (Green Grams),0,1,0
+Pigeon Peas (Mbaazi),0,1,0
+Groundnuts,0,1,0
+Beef,0,1,0
+Goat Meat,0,1,0
+Chicken,0,1,0
+Fish,0,1,0
+Omena,0,1,0
+Eggs,0,1,0
+Milk,0,1,0
+Butter,0,1,0
+Cashew Nuts,0,1,0
+Liver,0,1,0
+Matumbo (Tripe),0,1,0
+Maziwa Lala (Fermented Milk),0,1,0
+Yoghurt (plain),0,1,0
+Sausage,0,1,0
+Nyama choma,0,1,0
+Smokie,0,1,0
+Njahi (Black beans),0,1,0
+Lentils (Kamande),0,1,0
+Peas (Minji),0,1,0
+Chickpeas,0,1,0
+Soy beans,0,1,0
+Sukuma Wiki (Kales),0,0,1
+Spinach,0,0,1
+Cabbage,0,0,1
+Kunde (Cowpea Leaves),0,0,1
+Managu (Nightshade),0,0,1
+Terere (Amaranth),0,0,1
+Tomato,0,0,1
+Onion,0,0,1
+Carrot,0,0,1
+Avocado,0,0,1
+Banana (fruit),0,0,1
+Mango,0,0,1
+Kachumbari,0,0,1
+Dhania (Coriander),0,0,1
+Fruit Salad,0,0,1
+Pineapple,0,0,1
+Watermelon,0,0,1
+Sagaa,0,0,1
+Mrenda,0,0,1
+Nderema,0,0,1
+Mchicha,0,0,1
+Pumpkin (Malenge),0,0,1
+Pumpkin soup,0,0,1
+Pawpaw (Papaya),0,0,1
+Githeri,1,1,0
+Muthokoi,1,1,0
+Mukimo (cooked with greens),1,0,1
+Matoke (with beef),1,1,0
+Beef Stew (with vegetables),0,1,1
+Chicken stew (with vegetables),0,1,1
+Ndengu Stew (with vegetables),0,1,1
+Beans Stew (Madondo),0,1,1
+Pilau (with meat),1,1,0
+Omelette,0,1,1
+Yoghurt (fruit),0,1,1
+Fish wet fry (with vegetables),0,1,1
+"Samosa (beef),1,1,0",1,1,0
+"Samosa (vegetable),1,0,1",1,0,1
+"Smokie Pasua,0,1,1",0,1,1
+Chicken Biriyani,1,1,0
+Beef Biriyani,1,1,0

@@ -1,0 +1,9 @@
+Meal_Has_Carb,Meal_Has_Protein,Meal_Has_Veg,Is_Balanced
+1,1,1,1
+1,1,0,0
+1,0,1,0
+0,1,1,0
+1,0,0,0
+0,1,0,0
+0,0,1,0
+0,0,0,0
