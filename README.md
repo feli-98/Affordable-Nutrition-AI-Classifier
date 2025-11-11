@@ -46,6 +46,7 @@ click
 toml
 
 📊 How It Works- The app loads a pre-trained Decision Tree model from decision_tree_model.pkl.
+
 - Ingredient data is read from ingredients.csv, which includes flags for:
 - Is_Carb
 - Is_Protein
@@ -55,10 +56,12 @@ toml
 - Users can also generate random balanced meal ideas.
 
 🌍Impact
+
 This project supports nutrition awareness and food planning in Kenyan communities using accessible technology like mobile phones. 
 It’s designed to be simple, educational, and adaptable for local datasets. By promoting balanced meals, it contributes to food security and addresses *hidden hunger* a key challenge in achieving Zero Hunger (SDG 2) and having an impact on malnutrition.
 
 👏 Acknowledgments
+
 Created by Felistus Mukiri
  |Food scientist|Food security enthisiast|Tech innovator|Community advocate|
 
